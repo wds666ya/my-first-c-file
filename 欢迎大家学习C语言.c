@@ -2,7 +2,7 @@
 
 int main (void)
 {
-	printf ("ª∂”≠¥Ûº“—ßœ∞C”Ô—‘\n");
+	printf ("huanyingdajiaxuexi C yuyan\n");
 
 	return 0;
 }
